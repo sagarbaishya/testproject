@@ -1,0 +1,9 @@
+E:\Project\CICD\TestProject\TestProject\bin\Debug\netcoreapp1.1\TestProject.deps.json
+E:\Project\CICD\TestProject\TestProject\bin\Debug\netcoreapp1.1\TestProject.runtimeconfig.json
+E:\Project\CICD\TestProject\TestProject\bin\Debug\netcoreapp1.1\TestProject.runtimeconfig.dev.json
+E:\Project\CICD\TestProject\TestProject\bin\Debug\netcoreapp1.1\TestProject.dll
+E:\Project\CICD\TestProject\TestProject\bin\Debug\netcoreapp1.1\TestProject.pdb
+E:\Project\CICD\TestProject\TestProject\obj\Debug\netcoreapp1.1\TestProject.csprojResolveAssemblyReference.cache
+E:\Project\CICD\TestProject\TestProject\obj\Debug\netcoreapp1.1\TestProject.AssemblyInfo.cs
+E:\Project\CICD\TestProject\TestProject\obj\Debug\netcoreapp1.1\TestProject.dll
+E:\Project\CICD\TestProject\TestProject\obj\Debug\netcoreapp1.1\TestProject.pdb
